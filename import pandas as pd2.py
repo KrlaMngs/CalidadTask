@@ -1,5 +1,8 @@
 #Tarea 7 Métricas de calidad
 
+#Objetivo General
+# Crear resultados estadisticos para análizar las métricas de calidad del presente archivo
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
