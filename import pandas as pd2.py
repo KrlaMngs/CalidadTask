@@ -1,4 +1,5 @@
 #Tarea 7 Métricas de calidad
+#Karla Calderon
 
 #Objetivo General
 # Crear resultados estadisticos para análizar las métricas de calidad del presente archivo
