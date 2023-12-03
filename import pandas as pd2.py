@@ -2,7 +2,7 @@
 #Karla Calderon
 
 #Objetivo General
-# Crear resultados estadisticos para análizar las métricas de calidad del presente archivo
+# Crear resultados estadisticos para análizar las métricas de calidad de los datos proporcionados, a travez de la ISO 25000.
 
 #Fuente de Información
 #https://www.kaggle.com/datasets/sayedmohsin/sqa-dataset
